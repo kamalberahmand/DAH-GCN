@@ -27,28 +27,4 @@ def evaluate(y_true, y_pred):
 4. "Add evaluation utilities"
 5. Commit
 
----
 
-## قدم 7: تنظیمات نهایی
-
-**اضافه کردن Topics:**
-1. بالای صفحه سمت راست، یک قسمت About هست با یک آیکون چرخ دنده
-2. کلیک کن روش
-3. تو قسمت Topics بنویس (هر کدوم رو با Enter جدا کن):
-   - `graph-neural-networks`
-   - `deep-learning`
-   - `pytorch`
-   - `graph-clustering`
-
-4. Save changes
-
----
-
-## تموم شد!
-
-**الان repository تو آماده است:**
-- لینکش: `https://github.com/YOUR_USERNAME/DAH-GCN`
-
-**تو مقاله بنویس:**
-```
-Code is available at: https://github.com/YOUR_USERNAME/DAH-GCN
