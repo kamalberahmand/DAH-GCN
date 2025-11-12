@@ -21,7 +21,7 @@ scikit-learn>=1.0.0
 scipy>=1.7.0
 
 ## Installation
-git clone https://github.com/YOUR_USERNAME/DAH-GCN.git
+git clone https://github.com/kamal.berahmand/DAH-GCN.git
 cd DAH-GCN
 pip install -r requirements.txt
 
